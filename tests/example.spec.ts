@@ -1,7 +1,7 @@
 import { expect, test } from '../fixtures/custom-fixtures';
 import { GET_BOOKS_LIST, ONE_BOOK_MOCK } from '../mocks/book-mocks';
 
-test.describe.only('example', () => {
+test.describe('example', () => {
   test('login title', async ({ app }) => {
     // const title = page.locator('//h1');
 
