@@ -1,0 +1,35 @@
+{
+  // Автоматическое форматирование при сохранении файла
+  "editor.formatOnSave": true,
+
+  // Автоматическое форматирование при вводе (например, после ; или })
+  "editor.formatOnType": true,
+
+  // Автоматическое форматирование при вставке текста
+  "editor.formatOnPaste": true,
+
+  // Настройки для TypeScript/JavaScript
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // Автосохранение файла при переключении вкладок/потере фокуса
+  "files.autoSave": "onFocusChange",
+
+  // Показывать пробелы и отступы
+  "editor.renderWhitespace": "boundary",
+
+  // Автоматические исправления при сохранении
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+
+  // Настройки Playwright
+  "playwright.showBrowser": false,
+  "playwright.useTestServer": true
+}
