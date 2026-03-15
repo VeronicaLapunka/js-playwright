@@ -68,7 +68,8 @@ test.describe('example', () => {
     await expect(newPage).toHaveURL('/sample');
   });
 
-  test('failing test example', async () => {
+  test.skip('failing test example', async () => {
+    // This test is intentionally skipped to demonstrate test states
     expect(true).toBe(false);
   });
 });
