@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","401","get started link","chromium","Sun Mar 15 21:13:36 UTC 2026","passed","Sun Mar 15 21:13:36 UTC 2026","","example.spec.ts","",""
+"","1351","second tab example","chromium","Sun Mar 15 21:13:34 UTC 2026","passed","Sun Mar 15 21:13:36 UTC 2026","example","example.spec.ts","",""
+"","992","mocked one book","chromium","Sun Mar 15 21:13:33 UTC 2026","passed","Sun Mar 15 21:13:34 UTC 2026","example","example.spec.ts","",""
+"","3207","login title","chromium","Sun Mar 15 21:13:24 UTC 2026","passed","Sun Mar 15 21:13:27 UTC 2026","example","example.spec.ts","",""
+"","0","failing test example","chromium","Sun Mar 15 21:13:36 UTC 2026","skipped","Sun Mar 15 21:13:36 UTC 2026","example","example.spec.ts","",""
+"","1367","login button exists","chromium","Sun Mar 15 21:13:32 UTC 2026","passed","Sun Mar 15 21:13:33 UTC 2026","example","example.spec.ts","",""
+"","3008","failed login","chromium","Sun Mar 15 21:13:29 UTC 2026","passed","Sun Mar 15 21:13:32 UTC 2026","example","example.spec.ts","",""
